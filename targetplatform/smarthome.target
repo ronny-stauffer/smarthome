@@ -152,8 +152,8 @@
 <unit id="org.osgi.service.jdbc" version="0.0.0"/>
 <unit id="org.osgi.service.jdbc.source" version="0.0.0"/>
 <unit id="californium-osgi" version="0.0.0"/>
-<unit id="element-connector" version="0.0.0"/>
-<unit id="scandium" version="0.0.0"/>
+<unit id="org.eclipse.californium.element-connector" version="0.0.0"/>
+<unit id="org.eclipse.californium.scandium" version="0.0.0"/>
 <repository location="http://eclipse.github.io/smarthome/third-party/target/repository"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="true" type="InstallableUnit">
